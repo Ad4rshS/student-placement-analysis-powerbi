@@ -25,7 +25,7 @@ This project analyzes student placement data to identify trends in salary distri
 ## Files Included
 - `Placement_Analysis.pbix` – Power BI dashboard file
 - `screenshots/` – Dashboard preview images
-- `data/` – Dataset used for analysis (if included)
+- `data/` – Dataset used for analysis 
 
 ## Notes
 This project is created for learning and portfolio purposes using academic placement data.
