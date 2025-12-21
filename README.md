@@ -28,4 +28,4 @@ This project analyzes student placement data to identify trends in salary distri
 - `data/` – Dataset used for analysis 
 
 ## Notes
-This project is created for learning and portfolio purposes using academic placement data.
+This project is created for learning and portfolio purposes using academic (demo)placement data.
